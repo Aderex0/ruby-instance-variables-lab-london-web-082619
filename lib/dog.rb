@@ -9,7 +9,8 @@ class Dog
   end
   
   def age
-    dogs_age 
+    dogs_age
+  end
 end
 
 lassie = Dog.new
